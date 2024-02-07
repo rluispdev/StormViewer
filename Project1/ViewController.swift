@@ -25,6 +25,10 @@ class ViewController: UITableViewController {
         ///Depuracão: Exibe o nome das imagens no console do Xcode.
         print(pictures)
     }
+    
+    override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        <#code#>
+    }
 }
 
  

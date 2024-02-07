@@ -16,11 +16,11 @@ class ViewController: UIViewController {
         let path = Bundle.main.resourcePath!
         let items = try! fm.contentsOfDirectory(atPath: path)
         
-     
-
-
+        for item in items {
+            if item.hasSuffix("nssl"){
+                //this is a picuture to load!
+            }
+        }
     }
-
-
 }
 

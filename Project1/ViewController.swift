@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         let fm = FileManager.default
+        let path = Bundle.main.resourcePath!
         
         
 

@@ -18,10 +18,13 @@ class ViewController: UIViewController {
         let items = try! fm.contentsOfDirectory(atPath: path)
         
         for item in items {
-            if item.hasSuffix("nssl"){
+            if item.hasPrefix("nssl"){
                 pictures.append(item)
             }
         }
+        ///Depuracão: Exibe o nome das imagens no console do Xcode.
+        print(pictures)
     }
 }
 
+ 

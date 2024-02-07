@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         
         for item in items {
             if item.hasSuffix("nssl"){
-                //this is a picuture to load!
+                pictures.append(item)
             }
         }
     }

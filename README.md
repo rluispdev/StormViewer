@@ -6,7 +6,7 @@ Projeto criado usando Swift e UIKit. Essa projeto faz parte das atividades compl
 
 ## 🔨Projeto1
 - `Part 1` :  Setting up, Listing imagens with FileManger, Designing our Interface  [**Concluído** ✔️]
-- `Part 2` :  **_Em desenvolvimento_** 
+- `Part 2` :  **_Em desenvolvimento_**    ` 📕 runningUpdate: 10/02/2024`
 - `Part 3` :   _________
 
 -  ## 📁 Acesso ao projeto raiz
